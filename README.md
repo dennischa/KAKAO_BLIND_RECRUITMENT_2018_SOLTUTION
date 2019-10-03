@@ -9,3 +9,4 @@
 |2. 실패율| [Failure_Ratio](Failure_Ratio.cpp) | [Link](https://programmers.co.kr/learn/courses/30/lessons/42889)
 |3. 후보키| [Candidate_Key](Candidate_Key.cpp) | [Link](https://programmers.co.kr/learn/courses/30/lessons/42890)
 |4. 무지의 먹방 라이브 | [MUJIS_Eating_Broadcast](MUJIS_Eating_Broadcast.cpp) | [Link](https://programmers.co.kr/learn/courses/30/lessons/42891)
+|5. 길 찾기 게임 | [Pathfinding](Pathfinding.cpp) | [Link](https://programmers.co.kr/learn/courses/30/lessons/42892)
