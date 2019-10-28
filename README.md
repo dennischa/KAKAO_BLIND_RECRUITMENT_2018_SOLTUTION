@@ -10,3 +10,4 @@
 |3. 후보키| [Candidate_Key](Candidate_Key.cpp) | [Link](https://programmers.co.kr/learn/courses/30/lessons/42890)
 |4. 무지의 먹방 라이브 | [MUJIS_Eating_Broadcast](MUJIS_Eating_Broadcast.cpp) | [Link](https://programmers.co.kr/learn/courses/30/lessons/42891)
 |5. 길 찾기 게임 | [Pathfinding](Pathfinding.cpp) | [Link](https://programmers.co.kr/learn/courses/30/lessons/42892)
+|5. 매칭 점수 | [Matching_Score](Matching_Score.cpp) | [Link](https://programmers.co.kr/learn/courses/30/lessons/42893)
