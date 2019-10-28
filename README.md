@@ -1,4 +1,4 @@
-# KAKAO_BLIND_RECRUITMENT_2018_SOLTUTION
+# KAKAO_BLIND_RECRUITMENT_2019_SOLTUTION
 2019 카카오 신입 공채 1차 코딩 테스트 문제 풀이
 
 ![](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)
